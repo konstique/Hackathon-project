@@ -1,6 +1,7 @@
 # KNU-Hackathon
 ## Завдання 1
 Загальний вигляд дашборду:
+
 <img width="601" alt="image" src="https://github.com/user-attachments/assets/5a9ad847-d057-49d6-93d5-349fbe560638">
 
 ### Пункт 1: 
